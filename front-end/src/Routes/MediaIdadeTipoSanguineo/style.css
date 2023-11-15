@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.container p{
+    text-align: left;
+}
+
+.mediaIdadeContainer {
+    padding: 10px;
+    font-size: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    border: 1px solid #CCC;
+    border-radius: 20px;
+}

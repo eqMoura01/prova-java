@@ -1,0 +1,22 @@
+.header {
+    width: 100%;
+    background-color: white;
+    box-shadow: #989797 0 0 5px 0;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    font-size: calc(10px + 2vmin);
+    color: #3b3b3b;
+}
+
+.logo-container {
+    margin-left: 20px;
+}
+
+.version-container {
+    margin-right: 20px;
+    font-size: 14px;
+    color: #3b3b3b;
+}

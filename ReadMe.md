@@ -1,0 +1,1 @@
+## Para testar esse projeto, comece pelo ReadMe do projeto wkbe(back-end).
